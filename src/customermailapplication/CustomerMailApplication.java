@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @author sarun
  */
 public class CustomerMailApplication {
-    
+
     private Customer customer;
     public void getCustomerTypeFromUser(String customerType) {
         customer = CustomerFactory.createCustomer(customerType);
