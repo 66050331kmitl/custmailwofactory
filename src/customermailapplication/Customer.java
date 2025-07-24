@@ -5,8 +5,8 @@
  */
 
 package customermailapplication;
+
 /**
- *
  * @author sarun
  */
 public abstract class Customer { //make this class abstract
